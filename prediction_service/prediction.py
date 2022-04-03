@@ -1,4 +1,4 @@
-import pyyaml
+import yaml
 import os
 import json
 import joblib
